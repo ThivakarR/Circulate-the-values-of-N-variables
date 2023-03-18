@@ -30,4 +30,4 @@ def circulate():
 
 
 ## Result:
-Thus the circulate the n variables using function concept is successfully executed.
+Thus the circulate the n variables using function is successfully executed.
